@@ -1,0 +1,28 @@
+{
+  "name": "portfolio-valuation-dashboard",
+  "version": "1.0.0",
+  "description": "One trustworthy multi-chain portfolio total \u2014 with incomplete data made visible, never silently under-reported.",
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "build": "tsc",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "typecheck": "tsc --noEmit",
+    "check:secrets": "bash scripts/check-secrets.sh",
+    "demo:partial": "tsx scripts/demo-partial-failure.ts"
+  },
+  "engines": {
+    "node": ">=20.12"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.4"
+  },
+  "devDependencies": {
+    "@types/node": "^22.7.5",
+    "tsx": "^4.19.1",
+    "typescript": "^5.6.3",
+    "vitest": "^2.1.3"
+  }
+}
