@@ -13,20 +13,25 @@ RPC hiccuped, and nobody noticed because it didn't error.
   0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045
 ══════════════════════════════════════════════════════════════════════════
 
-  TOTAL   $704,897.95
-           across 4 networks · all chains reported successfully
+  TOTAL   $709,517.99
+           across 10 networks · all chains reported successfully
 
   ──────────────────────────────────────────────────────────────────────────
 
   By network
 
-   ✓ Ethereum          $667,648.80  363 priced, 6489 unpriced
-   ✓ Base               $35,626.79  212 priced, 2789 unpriced
-   ✓ Arbitrum              $951.39  46 priced, 282 unpriced
-   ✓ Optimism              $670.96  28 priced, 117 unpriced
+   ✓ Ethereum          $667,306.09  363 priced, 6490 unpriced
+   ✓ Base               $35,984.15  212 priced, 2789 unpriced
+   ✓ BNB Chain           $4,291.78  98 priced, 1937 unpriced
+   ✓ Arbitrum              $953.60  46 priced, 282 unpriced
+   ✓ Optimism              $673.64  28 priced, 117 unpriced
+   ✓ Scroll                $173.16  4 priced, 74 unpriced
+   ✓ Polygon                $63.77  1 priced, 933 unpriced
+   ✓ zkSync Era             $41.82  14 priced, 116 unpriced
+   ✓ Linea                  $24.00  10 priced, 35 unpriced
+   ✓ Avalanche               $5.99  15 priced, 30 unpriced
 
   ──────────────────────────────────────────────────────────────────────────
-
    …
 ```
 
